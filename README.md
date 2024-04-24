@@ -12,11 +12,11 @@ Course material will, however provide an overview of some of the common Python l
 
 ## Course Topics
 
-1. Numpy
-2. Pandas
-3. Matplotlib
-4. Plotly
-5. Seaborn
+1. [Numpy](https://numpy.org/)
+2. [Pandas](https://pandas.pydata.org)
+3. [Matplotlib](https://matplotlib.org)
+4. [Plotly](https://plotly.com)
+5. [Seaborn](https://seaborn.pydata.org)
 
 ...to name a few, we will be using Jupyter as the user environment in which code is written and run. Finally, we will briefly look at a web scraping example that also provides an example of sentiment analysis.
 
