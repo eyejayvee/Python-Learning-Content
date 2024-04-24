@@ -1,4 +1,4 @@
-# Welcome to Python for Data Engineering & Analytics
+# Welcome to Python for Data Analytics
 
 The material covered in this course is not intended to teach you Python. For this we recommend that you consider the following resources:
 
@@ -14,9 +14,9 @@ Course material will however provide an overview of some of the common Python li
 
 1. Numpy
 2. Pandas
-3. Plotly
-4. Seaborn
-5. Matplotlib
+3. Matplotlib
+4. Plotly
+5. Seaborn
 
 To name a few. Will be using Jupyter as the user environment in which code is written and run. Finally, we will briefly take a look at a web scraping example that also does provides and example of sentiment analysis.
 
